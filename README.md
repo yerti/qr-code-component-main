@@ -18,6 +18,7 @@ It is a project about a QR code giving it different styles and responsive design
 
 ### Screenshot
 
+- for cell phones:
 ![for cell phones.](./design/mobile-design.jpeg)
 
 - for tablets.
